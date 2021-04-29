@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../HASS-assignment2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HASS-assignment 3"
+	}
+}
